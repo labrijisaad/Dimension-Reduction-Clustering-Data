@@ -1,0 +1,10 @@
+# Add your project dependencies here 
+jupyterlab  
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+scipy
+umap-learn
+pyDRMetrics
